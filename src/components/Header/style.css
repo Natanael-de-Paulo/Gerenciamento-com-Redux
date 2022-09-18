@@ -1,0 +1,28 @@
+header{
+  background: #191919;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  padding: 2em;
+  gap:2em;
+}
+
+
+header img {
+  height: 8em;
+  width: 8em;
+}
+
+header .wrapper {
+  width: 100%;
+  max-width: 12em;
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: space-between;
+
+  gap: 1em 0;
+  text-align: center;
+  color: #FFF;
+}

@@ -1,0 +1,33 @@
+.container h1{
+  color: #FFF;
+}
+
+.container .reserves {
+  padding: 1.2em;
+  margin-bottom: 0.6em;
+  background: #FFF;
+  border-radius: 4px;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.reserves img{
+  height: 100px;
+}
+
+.reserves button{
+  border: 0;
+  background: #FFF;
+}
+
+footer button{
+  border: 0;
+  border-radius: 4px;
+  padding: 0.6em;
+  display: flex;
+  text-transform: uppercase ;
+  margin-top: 0.6em;
+  font-weight: bold;
+}
